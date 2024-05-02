@@ -1,0 +1,12 @@
+.allNav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.barra {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
